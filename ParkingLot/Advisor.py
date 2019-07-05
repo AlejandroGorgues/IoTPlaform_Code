@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-########################################################################
-# Filename    : Blink.py
-# Description : Make an led blinking.
-# auther      : www.freenove.com
-# modification: 2018/08/02
-########################################################################
 import RPi.GPIO as GPIO
 import time
 
