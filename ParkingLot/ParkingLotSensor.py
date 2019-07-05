@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-########################################################################
-# Filename    : UltrasonicRanging.py
-# Description : Get distance from UltrasonicRanging.
-# Author      : freenove
-# modification: 2018/08/03
-########################################################################
 import RPi.GPIO as GPIO
 import time
 
